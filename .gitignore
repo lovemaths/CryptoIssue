@@ -1,0 +1,5 @@
+net461console/bin
+net461console/obj
+netcore/bin
+netcore/obj
+.vs/*
